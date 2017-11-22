@@ -1,0 +1,4 @@
+curl -d @tt.json -H "Content-Type: application/json" -i "https://www.googleapis.com/geolocation/v1/geolocate?key=AIzaSyAjENDpRbOqyPaot4az9WFOX_JSztsxQhs"
+curl -d @test.json -H "Content-Type: application/json" -i "https://www.googleapis.com/geolocation/v1/geolocate?key=AIzaSyDAOgP9HN_qz-0BKbXljBNuQwqWlTw1_Do"
+curl -d @far_pos.json -H "Content-Type: application/json" -i "https://www.googleapis.com/geolocation/v1/geolocate?key=AIzaSyBtLdMhgwM1UN5bRNt7OT1y5rvUQmhpbPM"
+curl -d @ss.json -H "Content-Type: application/json" -i "https://www.googleapis.com/geolocation/v1/geolocate?key=AIzaSyBtLdMhgwM1UN5bRNt7OT1y5rvUQmhpbPM"

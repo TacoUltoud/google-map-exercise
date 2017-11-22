@@ -1,0 +1,23 @@
+{
+  "homeMobileCountryCode": 466,
+  "homeMobileNetworkCode": 1,
+  "radioType": "lte",
+  "carrier": "",
+  "considerIp": "false",
+  "cellTowers": [
+    {
+      "cellId": 25637910,
+      "locationAreaCode": 19142,
+      "mobileCountryCode": 466,
+      "mobileNetworkCode": 1
+    }
+  ],
+  "wifiAccessPoints": [
+    {
+        "macAddress": ""
+    },
+    {
+        "macAddress": ""
+    }
+  ]
+}
